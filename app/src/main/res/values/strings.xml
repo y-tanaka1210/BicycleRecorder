@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BicycleRecorder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="button">LED ON/OFF</string>
+    <string name="action_settings">Settings</string>
+</resources>
